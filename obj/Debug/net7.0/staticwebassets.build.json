@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "AWdKo2qUm/cqiyBdYfG22UeViDJorQigy874EXuYvXY=",
+  "Source": "backend",
+  "BasePath": "_content/backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "backend\\wwwroot",
+      "Source": "backend",
+      "ContentRoot": "C:\\Users\\Somesh\\Documents\\ResumeManagementDRTS\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Somesh\\Documents\\ResumeManagementDRTS\\backend\\wwwroot\\uploads\\06d59c76-ec4b-4821-9ba8-345a3c3c6c4e..xlsx",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Somesh\\Documents\\ResumeManagementDRTS\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "uploads/06d59c76-ec4b-4821-9ba8-345a3c3c6c4e..xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\06d59c76-ec4b-4821-9ba8-345a3c3c6c4e..xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\Somesh\\Documents\\ResumeManagementDRTS\\backend\\wwwroot\\uploads\\0fcdf8ec-9e0b-44b1-91ab-d6451a363f99..xlsx",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Somesh\\Documents\\ResumeManagementDRTS\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "uploads/0fcdf8ec-9e0b-44b1-91ab-d6451a363f99..xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0fcdf8ec-9e0b-44b1-91ab-d6451a363f99..xlsx"
+    }
+  ]
+}

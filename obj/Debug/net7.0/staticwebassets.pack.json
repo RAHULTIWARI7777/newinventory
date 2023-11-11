@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Somesh\\Documents\\ResumeManagementDRTS\\backend\\wwwroot\\uploads\\06d59c76-ec4b-4821-9ba8-345a3c3c6c4e..xlsx",
+      "PackagePath": "staticwebassets\\uploads\\06d59c76-ec4b-4821-9ba8-345a3c3c6c4e..xlsx"
+    },
+    {
+      "Id": "C:\\Users\\Somesh\\Documents\\ResumeManagementDRTS\\backend\\wwwroot\\uploads\\0fcdf8ec-9e0b-44b1-91ab-d6451a363f99..xlsx",
+      "PackagePath": "staticwebassets\\uploads\\0fcdf8ec-9e0b-44b1-91ab-d6451a363f99..xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.backend.props",
+      "PackagePath": "build\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.backend.props",
+      "PackagePath": "buildMultiTargeting\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.backend.props",
+      "PackagePath": "buildTransitive\\backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
